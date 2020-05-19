@@ -8,3 +8,5 @@ Flexbox
 
 
 <img width="677" alt="findurfidopic" src="https://user-images.githubusercontent.com/52284759/82372618-45c29b00-99ea-11ea-9184-8221ddc1aa97.png">
+
+for further info and a video demonstration, please visit: www.rebeccadouglass.com
